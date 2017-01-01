@@ -1,4 +1,5 @@
 import os
+import shutil
 
 def getAllFiles(dirName, houzhui=' '):
     results = []
